@@ -10,7 +10,7 @@ Este repositório é dedicado à documentação de projetos e aprendizados, com 
 
 * **Idade:** 18 anos.
 * **Formação:** Cursando Análise e Desenvolvimento de Sistemas na UDF.
-* **Foco Principal:** Estou em constante aprendizado nas áreas de **Desenvolvimento Front-end**, **Programação C**, **Modelagem de Banco de Dados** e **Design Profissional**.
+* **Foco Principal:** Estou em constante aprendizado nas áreas de **Desenvolvimento Front-end**, **Programação C** (Lógica/Algoritmos), **Modelagem de Banco de Dados** e **Design Profissional**.
 
 ## 🚀 Resumo do Conteúdo
 
@@ -35,10 +35,10 @@ Esta pasta contém subpastas individuais para cada disciplina, detalhando os con
 
 | Módulo do Semestre | Acesso Rápido |
 | :--- | :--- |
-| Algoritmos e Pensamento Computacional | [Ver Detalhes](https://github.com/Henriquemaia07/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1%C2%BA_%20Semestre/Algoritimos%20e%20pensamento%20computacional) |
-| Desenvolvimento Front-end | [Ver Detalhes](https://github.com/Henriquemaia07/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1%C2%BA_%20Semestre/Desenvolvimento%20front%20end) |
-| Design Profissional | [Ver Detalhes](https://github.com/Henriquemaia07/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1%C2%BA_%20Semestre/Design%20profissional) |
-| Modelagem de Banco de Dados | [Ver Detalhes](https://github.com/Henriquemaia07/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1%C2%BA_%20Semestre/Modelagem%20de%20banco%20de%20dados) |
+| Algoritmos e Pensamento Computacional | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Algoritimos%20e%20pensamento%20computacional) |
+| Desenvolvimento Front-end | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Desenvolvimento%20front%20end) |
+| Design Profissional | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Design%20profissional) |
+| Modelagem de Banco de Dados | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Modelagem%20de%20banco%20de%20dados) |
 
 ---
 
@@ -47,8 +47,8 @@ Esta pasta contém subpastas individuais para cada disciplina, detalhando os con
 Estou aberto a **networking** e **oportunidades**. Sinta-se à vontade para entrar em contato:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </div>
 
 ---
