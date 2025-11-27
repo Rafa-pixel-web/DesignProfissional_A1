@@ -35,10 +35,10 @@ Esta pasta contém subpastas individuais para cada disciplina, detalhando os con
 
 | Módulo do Semestre | Acesso Rápido |
 | :--- | :--- |
-| Algoritmos e Pensamento Computacional | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Algoritimos%20e%20pensamento%20computacional) |
-| Desenvolvimento Front-end | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Desenvolvimento%20front%20end) |
-| Design Profissional | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Design%20profissional) |
-| Modelagem de Banco de Dados | [Ver Detalhes](https://github.com/Rafa-pixel-web/DesignProfissional_A1/tree/main/Reposit%C3%B3rios_1_Semestre/Modelagem%20de%20banco%20de%20dados) |
+| Algoritmos e Pensamento Computacional | 
+| Desenvolvimento Front-end | 
+| Design Profissional |
+| Modelagem de Banco de Dados | 
 
 ---
 
