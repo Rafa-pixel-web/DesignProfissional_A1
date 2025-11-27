@@ -29,12 +29,12 @@ Aqui você encontrará a organização completa dos meus estudos no **1º Semest
 
 Explore a pasta principal abaixo para acessar todos os trabalhos do semestre:
 
-### [📁 Repositórios do 1º Semestre](./Reposit%C3%B3rios_1%C2%BA_%20Semestre/)
+### 📁 Repositórios do 1º Semestre
 
 Esta pasta contém subpastas individuais para cada disciplina, detalhando os conceitos, exercícios e projetos práticos.
 
-| Módulo do Semestre | Acesso Rápido |
-| :--- | :--- |
+| Módulo do Semestre 
+| :--- | 
 | Algoritmos e Pensamento Computacional | 
 | Desenvolvimento Front-end | 
 | Design Profissional |
